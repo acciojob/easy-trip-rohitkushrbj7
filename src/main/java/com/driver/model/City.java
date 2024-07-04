@@ -9,5 +9,4 @@ public enum City {
     JAIPUR,
     KOLKATA,
     CHENNAI,
-    MUMBAI,
 }
